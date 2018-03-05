@@ -1,4 +1,4 @@
-FROM registry.centos.org/sclo/postgresql-95-centos7:latest
+FROM registry.centos.org/centos/postgresql-95-centos7
  
 ADD dumpit.sh ./
 
